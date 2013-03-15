@@ -1,6 +1,23 @@
 version: x.x.x-?
-x - number
+
+x - number(below)
+  first number in x is how many numbers there are in it
+  the others are the numbers to express the version
+ex. :
+0
+10
+201
+3031
+43902
+...
+
 ? - (below)
-d development
-e f g h i j k l m n o p q
+d development(usually the master)
+e experimental
+f g h i j k l m n o p q
 r release
+
+full version ex. :
+0.43139.200-r
+12.3221.0-d
+...
