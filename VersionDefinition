@@ -3,6 +3,8 @@ version: x.x.x-?
 x - number(below)
   first number in x is how many numbers there are in rest of x
   the rest of x are the numbers to express the version
+  specially : when it is confirmed that x has only one letter
+              then x can be directly write as from 0 to 9
 ex. :
 0
 10
