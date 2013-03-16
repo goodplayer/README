@@ -21,6 +21,7 @@ d development(usually the master)
 e experimental
 f g h i j k l m n o p q
 r release
+note : echo version(only part1) has only one release version(version -r)
 
 part3
 * - anything can be added
