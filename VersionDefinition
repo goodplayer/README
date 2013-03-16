@@ -4,7 +4,8 @@ x - number(below)
   first number in x is how many numbers there are in rest of x
   the rest of x are the numbers to express the version
   specially : when it is confirmed that x has only one letter
-              then x can be directly write as from 0 to 9
+              then x can be directly write as a single number
+  finally : here i call it number that can be write as 0-9a-z with its order shown here
 ex. :
 0
 10
@@ -13,7 +14,7 @@ ex. :
 43902
 ...
 
-? - (below)
+? - (below, order restrict)
 d development(usually the master)
 e experimental
 f g h i j k l m n o p q
