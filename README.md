@@ -14,6 +14,6 @@ or only VERINFO
 
 and the content can be written as 
 
-> version definition can be found here:
+> version definition can be found in all files in the site below:
 
 > https://github.com/goodplayer/README
