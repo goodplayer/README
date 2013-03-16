@@ -2,5 +2,5 @@ neko    - usually core projects
 apron   - usually extension/addition/other projects
 ribbon  - usually not the neko/apron/nana projects
 moetang - any projects
-meidomx - any projects with higher priority
+meidomx - any projects with higher priority than moetang
 nana    - usually basic/vital projects
