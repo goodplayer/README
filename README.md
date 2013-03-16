@@ -10,3 +10,9 @@ file name should be - VERINFO-*
 \* can be anything you like
 
 or only VERINFO
+
+and the content can be written as 
+
+> version definition can be found here:
+
+> https://github.com/goodplayer/README
