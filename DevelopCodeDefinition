@@ -5,5 +5,7 @@ ribbon  - usually not included by neko/apron/nana projects
 meidomx - any projects
 moetang - any projects with lower priority than meidomx
 
+legacy - all the projects whose names don't start with those prefix above. THIS IS NOT A PREFIX.
+
 NOTE:
 when it is need, all the code name prefix above can be writen with capital letter leading
