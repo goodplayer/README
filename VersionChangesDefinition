@@ -7,6 +7,8 @@ users must pay attention to the version changes, especially this api change.
 but users must be informed in at least the last TWO versions by the developers
 Also it doesn't mean the api must be changed.
 It is just telling - api changes only occurs when this occasion happens.
+When the time decided to change api, this is necessary to add a new branch for current version.
+The new branch is for the old version, and now master is for new api version.
 
 2. when api changes, what will also happens :
 a. the last version before the change will comes into a new branch, and won't be back to master
