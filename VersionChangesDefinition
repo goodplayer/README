@@ -1,0 +1,15 @@
+All new versions can change the implement codes whatever you want.
+But for those occasions below, there are some special rules:
+
+1. when the middle of version is even - for the version x1.x2.x3, x2 % 2 == 0 :
+this occasion means this version may change user api.
+users must pay attention to the version changes, especially this change.
+Also it doesn't mean the api must be changed.
+It is just telling - api changes only occurs when this occasion happens.
+
+2. when api changes, what will also happens :
+a. the last version before the change will comes into a new branch, and won't be back to master
+b. the master will be the new version.
+
+3. for every new release version :
+every new version will be a new tag.
