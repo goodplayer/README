@@ -3,7 +3,8 @@ But for those occasions below, there are some special rules:
 
 1. when the middle of version is even - for the version x1.x2.x3, x2 % 2 == 0 :
 this occasion means this version may change user api.
-users must pay attention to the version changes, especially this change.
+users must pay attention to the version changes, especially this api change.
+but users must be informed in at least the last TWO versions by the developers
 Also it doesn't mean the api must be changed.
 It is just telling - api changes only occurs when this occasion happens.
 
