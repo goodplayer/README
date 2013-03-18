@@ -7,7 +7,7 @@ x - number(below)
   specially : when it is confirmed that x has only one letter
               then x can be directly write as a single number
   finally : here i call it number that can be write as 0-9a-z with its order shown here
-ex. :
+e.g. :
 0
 10
 201
@@ -26,12 +26,12 @@ note : echo version(only part1) has only one release version(version -r)
 part3
 * - anything can be added
 the 3rd part is -*, this can be ommit or not.
-ex. :
+e.g. :
 0.0.0-r-SNAPSHOT
 0.0.0-r
 both are ok.
 
-full version ex. :
+full version e.g. :
 0.43139.200-r
 12.3221.0-d
 ...
